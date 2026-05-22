@@ -12,3 +12,6 @@ RUN PROJECT
 
 1. streamlit run main.py
 
+OLLAMA MODEL
+
+1. qwen2.5 1.5b
