@@ -1,0 +1,17 @@
+[project]
+name = "youtubecontentgeneration"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "google-api-python-client>=2.196.0",
+    "ollama>=0.6.2",
+    "pandas>=3.0.3",
+    "python-dotenv>=1.2.2",
+    "pytrends>=4.9.2",
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+    "streamlit>=1.57.0",
+]
