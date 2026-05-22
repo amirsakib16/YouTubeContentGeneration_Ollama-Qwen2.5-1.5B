@@ -1,4 +1,4 @@
-# Ollama Qwen2.5 1.5B [Local LLM] Powered YouTube Content Generation Based on Current Trending Topics
+# Ollama Qwen2.5 1.5B [Local LLM] Powered Sequencial Multi-Agent YouTube Content Generation Based on Current Trending Topics
 
 This project is an AI-powered YouTube content generation system that uses the **Ollama Qwen2.5 1.5B model** to generate scripts and content ideas based on current trending topics. It is built using Python and Streamlit for an interactive UI.
 
