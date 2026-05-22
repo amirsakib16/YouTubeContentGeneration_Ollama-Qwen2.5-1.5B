@@ -1,17 +1,30 @@
-PYTHON VIRTUAL ENVIRONMENT SETUP
+# Ollama Qwen2.5 1.5B [Local LLM] Powered YouTube Content Generation Based on Current Trending Topics
 
-1. py -3.10 -m venv env
-2. env/Scripts/activate
+This project is an AI-powered YouTube content generation system that uses the **Ollama Qwen2.5 1.5B model** to generate scripts and content ideas based on current trending topics. It is built using Python and Streamlit for an interactive UI.
 
-UV SETUP
+---
 
-1. pip install uv
-2. uv init .
+## Features
 
-RUN PROJECT
+- Generates YouTube video content using AI
+- Uses Ollama local LLM (Qwen2.5 1.5B)
+- Based on current trending topics
+- Simple and interactive Streamlit UI
+- Lightweight and easy to run locally
 
-1. streamlit run main.py
+---
 
-OLLAMA MODEL
+## AI Model
 
-1. qwen2.5 1.5b
+- **Model:** Qwen2.5 1.5B
+- **Platform:** Ollama
+- **Purpose:** Text generation for YouTube scripts, ideas, and summaries
+
+---
+
+## Project Setup
+
+### 1. Create Virtual Environment
+
+```bash
+py -3.10 -m venv env
